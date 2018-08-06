@@ -32,3 +32,9 @@ h3 {font-family: Helvetica;
       font-weight: bold;
       color: white;
       background-size: cover;}
+
+      footer {font-family: Helvetica;
+        font-size: 11px;
+        color: white;
+      background-color: dimgray;
+      text-align: left;}
